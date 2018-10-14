@@ -1,0 +1,8 @@
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/CMakeFiles/rebuild_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/CMakeFiles/edit_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/src/CMakeFiles/rebuild_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/src/CMakeFiles/edit_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/src/CMakeFiles/BabyMINDUnpack.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/examples/CMakeFiles/rebuild_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/examples/CMakeFiles/edit_cache.dir
+/Volumes/DriveGenius/CERN/beamTest_SFGD/github/SFGD_Unpacking/build/examples/CMakeFiles/dump.dir
